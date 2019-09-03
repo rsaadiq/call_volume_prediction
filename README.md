@@ -7,4 +7,4 @@ Childline Kenya works in partnership with the Government to STOP child abuse and
 
 The objective of this project is to create a forecast model to predict the number of incoming calls that Childline Kenya will receive per hour per day. Forecasting will help Childline manage its resources and staff their call center more efficiently, enabling them to better serve as many children as possible.
 
-[Click to view the project](https://github.com/rsaadiq/call_volume_prediction/blob/master/Call%20volume%20with%20prophet.ipynb)
+[Click to view the project](https://nbviewer.jupyter.org/github/rsaadiq/call_volume_prediction/blob/master/call_volume_prediction.ipynb)
